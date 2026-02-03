@@ -1,0 +1,1 @@
+Proyecto en C++ que consume la API JSONPlaceholder para mostrar información de usuarios en consola usando CURL y nlohmann/json. Modular, fácil de extender y apto como ejemplo de consumo de APIs y manejo de JSON.
