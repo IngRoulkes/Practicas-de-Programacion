@@ -1,0 +1,2 @@
+Este proyecto es un script en Python que permite consultar en tiempo real las condiciones climáticas de cualquier ciudad utilizando la API de OpenWeatherMap.
+El programa solicita al usuario el nombre de una ciudad y devuelve información clara y relevante como temperatura, condición climática, humedad y velocidad del viento, todo en español y con unidades métricas
