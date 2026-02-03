@@ -1,0 +1,1 @@
+En este proyecto en C++ consumo la API JSONPlaceholder para mostrar información de usuarios en la consola usando CURL y nlohmann/json. Es modular, fácil de extender y sirve como ejemplo práctico de cómo trabajar con APIs y manejar JSON.
