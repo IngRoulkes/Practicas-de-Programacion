@@ -1,0 +1,19 @@
+[
+  {
+    "nombre": "Aaron",
+    "correo": "Gordillo",
+    "saldo": "Aaron@gmail.com"
+  },
+  {
+    "nombre": "aaron",
+    "apellido": "gordillo",
+    "correo": "aaron@gmail.com",
+    "saldo": 1000
+  },
+  {
+    "nombre": "luis",
+    "apellido": "aaa",
+    "correo": "lu@gmail.com",
+    "saldo": 9900
+  }
+]
